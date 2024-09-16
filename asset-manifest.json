@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fridge-app/static/css/main.3f2969a2.css",
+    "main.js": "/fridge-app/static/js/main.6635037c.js",
+    "static/js/453.3b0777a9.chunk.js": "/fridge-app/static/js/453.3b0777a9.chunk.js",
+    "index.html": "/fridge-app/index.html",
+    "main.3f2969a2.css.map": "/fridge-app/static/css/main.3f2969a2.css.map",
+    "main.6635037c.js.map": "/fridge-app/static/js/main.6635037c.js.map",
+    "453.3b0777a9.chunk.js.map": "/fridge-app/static/js/453.3b0777a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f2969a2.css",
+    "static/js/main.6635037c.js"
+  ]
+}
